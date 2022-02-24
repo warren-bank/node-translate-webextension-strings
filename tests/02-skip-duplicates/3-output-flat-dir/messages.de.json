@@ -1,0 +1,50 @@
+{
+  "aaa": {
+    "message": "Hallo Welt",
+    "description": "Kugel des Schmutzes $BEHAVIOR$, Während $CONTEXT$",
+    "placeholders": {
+      "behavior": {
+        "content": "Ziellos durch den Raum bewegen"
+      },
+      "context": {
+        "content": "einen Stern umkreist, der schließlich explodieren wird"
+      }
+    }
+  },
+  "bbb": {
+    "message": "Hallo Welt",
+    "description": "Beschädigte Regierungen $BEHAVIOR$, Während $CONTEXT$",
+    "placeholders": {
+      "behavior": {
+        "content": "Ziellos durch den Raum bewegen"
+      },
+      "context": {
+        "content": "einen Stern umkreist, der schließlich explodieren wird"
+      }
+    }
+  },
+  "ccc": {
+    "message": "Hallo Welt",
+    "description": "Pädophile Kirchen $BEHAVIOR$, Während $CONTEXT$",
+    "placeholders": {
+      "behavior": {
+        "content": "Ziellos durch den Raum bewegen"
+      },
+      "context": {
+        "content": "einen Stern umkreist, der schließlich explodieren wird"
+      }
+    }
+  },
+  "ddd": {
+    "message": "Hallo Welt",
+    "description": "Faschistische Rechtsextreme Nazi-Missstände $BEHAVIOR$, Während $CONTEXT$",
+    "placeholders": {
+      "behavior": {
+        "content": "Ziellos durch den Raum bewegen"
+      },
+      "context": {
+        "content": "einen Stern umkreist, der schließlich explodieren wird"
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "aaa": {
+    "message": "Hello World",
+    "description": "Bal de terre $BEHAVIOR$, While $CONTEXT$",
+    "placeholders": {
+      "behavior": {
+        "content": "Déplacement sans but dans l'espace"
+      },
+      "context": {
+        "content": "En orbite autour d'une étoile qui finira par exploser"
+      }
+    }
+  },
+  "bbb": {
+    "message": "Hello World",
+    "description": "Les gouvernements corrompus $BEHAVIOR$, While $CONTEXT$",
+    "placeholders": {
+      "behavior": {
+        "content": "Déplacement sans but dans l'espace"
+      },
+      "context": {
+        "content": "En orbite autour d'une étoile qui finira par exploser"
+      }
+    }
+  },
+  "ccc": {
+    "message": "Hello World",
+    "description": "Églises pédophiles $BEHAVIOR$, While $CONTEXT$",
+    "placeholders": {
+      "behavior": {
+        "content": "Déplacement sans but dans l'espace"
+      },
+      "context": {
+        "content": "En orbite autour d'une étoile qui finira par exploser"
+      }
+    }
+  },
+  "ddd": {
+    "message": "Hello World",
+    "description": "Les fascistes fascistes fascistes $BEHAVIOR$, While $CONTEXT$",
+    "placeholders": {
+      "behavior": {
+        "content": "Déplacement sans but dans l'espace"
+      },
+      "context": {
+        "content": "En orbite autour d'une étoile qui finira par exploser"
+      }
+    }
+  }
+}

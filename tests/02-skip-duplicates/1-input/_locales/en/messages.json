@@ -1,0 +1,50 @@
+{
+  "aaa": {
+    "message": "Hello World",
+    "description": "Ball of dirt $BEHAVIOR$, while $CONTEXT$",
+    "placeholders": {
+      "behavior": {
+        "content": "moving aimlessly through space"
+      },
+      "context": {
+        "content": "orbiting a star that will eventually explode"
+      }
+    }
+  },
+  "bbb": {
+    "message": "Hello World",
+    "description": "Corrupt governments $BEHAVIOR$, while $CONTEXT$",
+    "placeholders": {
+      "behavior": {
+        "content": "moving aimlessly through space"
+      },
+      "context": {
+        "content": "orbiting a star that will eventually explode"
+      }
+    }
+  },
+  "ccc": {
+    "message": "Hello World",
+    "description": "Pedophile churches $BEHAVIOR$, while $CONTEXT$",
+    "placeholders": {
+      "behavior": {
+        "content": "moving aimlessly through space"
+      },
+      "context": {
+        "content": "orbiting a star that will eventually explode"
+      }
+    }
+  },
+  "ddd": {
+    "message": "Hello World",
+    "description": "Fascist right-wing Nazi deplorables $BEHAVIOR$, while $CONTEXT$",
+    "placeholders": {
+      "behavior": {
+        "content": "moving aimlessly through space"
+      },
+      "context": {
+        "content": "orbiting a star that will eventually explode"
+      }
+    }
+  }
+}

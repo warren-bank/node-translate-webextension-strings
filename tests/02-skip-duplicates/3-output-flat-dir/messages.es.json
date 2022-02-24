@@ -1,0 +1,50 @@
+{
+  "aaa": {
+    "message": "Hola Mundo",
+    "description": "Bola de tierra $BEHAVIOR$, mientras que $CONTEXT$",
+    "placeholders": {
+      "behavior": {
+        "content": "moverse sin rumbo a través del espacio"
+      },
+      "context": {
+        "content": "orbitando una estrella que eventualmente explotará"
+      }
+    }
+  },
+  "bbb": {
+    "message": "Hola Mundo",
+    "description": "Gobiernos corruptos $BEHAVIOR$, mientras que $CONTEXT$",
+    "placeholders": {
+      "behavior": {
+        "content": "moverse sin rumbo a través del espacio"
+      },
+      "context": {
+        "content": "orbitando una estrella que eventualmente explotará"
+      }
+    }
+  },
+  "ccc": {
+    "message": "Hola Mundo",
+    "description": "Iglesias pedófilos $BEHAVIOR$, mientras que $CONTEXT$",
+    "placeholders": {
+      "behavior": {
+        "content": "moverse sin rumbo a través del espacio"
+      },
+      "context": {
+        "content": "orbitando una estrella que eventualmente explotará"
+      }
+    }
+  },
+  "ddd": {
+    "message": "Hola Mundo",
+    "description": "Los deplorables nazis de derecha fascista $BEHAVIOR$, mientras que $CONTEXT$",
+    "placeholders": {
+      "behavior": {
+        "content": "moverse sin rumbo a través del espacio"
+      },
+      "context": {
+        "content": "orbitando una estrella que eventualmente explotará"
+      }
+    }
+  }
+}
