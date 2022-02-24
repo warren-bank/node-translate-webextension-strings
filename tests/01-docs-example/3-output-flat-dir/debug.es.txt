@@ -1,0 +1,10 @@
+[
+  "¿Cuál es tu nombre?",
+  "Solicitar el nombre del usuario",
+  "Hello",
+  "Saludar al usuario",
+  "Adiós",
+  "Volver a:",
+  "pronto",
+  "Decir adiós al usuario"
+]

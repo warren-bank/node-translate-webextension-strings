@@ -1,0 +1,10 @@
+[
+  "What's your name",
+  "Ask for the user's name",
+  "Hello",
+  "Greet the user",
+  "Goodbye",
+  "Come back to",
+  "soon",
+  "Say goodbye to the user"
+]
