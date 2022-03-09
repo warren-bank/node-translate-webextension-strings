@@ -14,6 +14,7 @@ const argv_flags = {
   "--output-directory":   {file: "path-dirname-exists"},
   "--make-resource-dirs": {bool: true},
   "--blacklist":          {many: true},
+  "--no-clobber":         {bool: true},
   "--debug":              {bool: true}
 }
 
@@ -27,7 +28,8 @@ const argv_flag_aliases = {
   "--input-file":         ["-f"],
   "--output-directory":   ["-d"],
   "--make-resource-dirs": ["-m"],
-  "--blacklist":          ["-b"]
+  "--blacklist":          ["-b"],
+  "--no-clobber":         ["--nr", "--no-replace"]
 }
 
 let argv_vals = {}

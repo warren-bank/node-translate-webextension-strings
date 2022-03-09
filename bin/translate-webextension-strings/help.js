@@ -61,6 +61,12 @@ options:
     note: This flag can be repeated to blacklist multiple substring patterns.
     Default: empty list.
 
+"--nr"
+"--no-replace"
+"--no-clobber"
+    [optional] Skip output languages for which the output file already exists.
+    Default: Disabled. Overwrite if exists.
+
 "--debug"
     [optional] Writes raw data files to output directory.
     note: If enabled, then for each language:
