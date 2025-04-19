@@ -1,10 +1,10 @@
 [
   "Hola Mundo",
   "Bola de tierra",
-  "mientras que",
-  "moverse sin rumbo a través del espacio",
+  "mientras",
+  "moverse sin rumbo por el espacio",
   "orbitando una estrella que eventualmente explotará",
   "Gobiernos corruptos",
-  "Iglesias pedófilos",
-  "Los deplorables nazis de derecha fascista"
+  "Iglesias pedófilas",
+  "Fascista nazi de derecha deplorables"
 ]

@@ -1,10 +1,10 @@
 [
-  "Was ist Ihr Name?",
-  "Fordern Sie den Namen des Benutzers an.",
+  "Wie heißt du",
+  "Fragen Sie nach dem Namen des Benutzers",
   "Hallo",
-  "Begrüßung des Benutzers",
-  "Goodbye",
+  "Grüß den Benutzer",
+  "Auf Wiedersehen",
   "Komm zurück zu",
-  "Bald",
-  "Verabschieden Sie sich vom Nutzer"
+  "bald",
+  "Verabschieden Sie sich vom Benutzer"
 ]

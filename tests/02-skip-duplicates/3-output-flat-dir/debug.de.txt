@@ -1,10 +1,10 @@
 [
   "Hallo Welt",
   "Kugel des Schmutzes",
-  "Während",
-  "Ziellos durch den Raum bewegen",
-  "einen Stern umkreist, der schließlich explodieren wird",
-  "Beschädigte Regierungen",
+  "während",
+  "ziellos durch den raum bewegt",
+  "einen stern umkreisen, der schließlich explodiert",
+  "Korruptionsbekämpfung",
   "Pädophile Kirchen",
-  "Faschistische Rechtsextreme Nazi-Missstände"
+  "Faschistische rechtsextremistische Nazibeklagen"
 ]

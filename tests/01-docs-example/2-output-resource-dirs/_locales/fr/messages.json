@@ -1,11 +1,11 @@
 {
   "prompt_for_name": {
-    "message": "Quel est votre nom??",
+    "message": "Quel est votre nom ?",
     "description": "Demander le nom de l'utilisateur"
   },
   "hello": {
     "message": "Bonjour, $USER$",
-    "description": "Greet l'utilisateur",
+    "description": "Saluez l'utilisateur",
     "placeholders": {
       "user": {
         "content": "$1",
@@ -14,8 +14,8 @@
     }
   },
   "bye": {
-    "message": "Au revoir, $USER$. Revenez à $OUR_SITE$ Bientôt!",
-    "description": "Dites adieu à l'utilisateur",
+    "message": "Au revoir, $USER$. Revenez à $OUR_SITE$ bientôt!",
+    "description": "Dis au revoir à l'utilisateur",
     "placeholders": {
       "our_site": {
         "content": "Example.com"

@@ -1,9 +1,10 @@
 @echo off
 
-rem :: declare variables "IBM_TRANSLATOR_API_KEY" and "IBM_TRANSLATOR_API_URL"
-call "%USERPROFILE%\IBM_TRANSLATOR_API_CREDENTIALS.bat"
-
 set DIR=%~dp0.
+
+rem :: declare variables "LIBRE_TRANSLATE_API_KEY" and "LIBRE_TRANSLATE_API_URL"
+call "%DIR%\..\LIBRE_TRANSLATE_API_CREDENTIALS.bat"
+
 goto :start
 
 :translate-webextension-strings
@@ -22,7 +23,7 @@ set output_dir=%output_dir%\_locales
 if exist "%output_dir%" rmdir /Q /S "%output_dir%"
 mkdir "%output_dir%"
 
-call :translate-webextension-strings -i "en" -o "de" -o "es" -o "fr" -f "%input_file%" -d "%output_dir%" %blacklist% -m >"%log_file%" 2>&1
+call :translate-webextension-strings -i "en" -o "de" -o "es" -o "fr" -f "%input_file%" -d "%output_dir%" %blacklist% --nb -m >"%log_file%" 2>&1
 
 :make-flat-dir-with-debug
 set output_dir=%DIR%\3-output-flat-dir
@@ -31,4 +32,4 @@ set log_file=%output_dir%\test.log
 if exist "%output_dir%" rmdir /Q /S "%output_dir%"
 mkdir "%output_dir%"
 
-call :translate-webextension-strings -i "en" -o "de" -o "es" -o "fr" -f "%input_file%" -d "%output_dir%" %blacklist% --debug >"%log_file%" 2>&1
+call :translate-webextension-strings -i "en" -o "de" -o "es" -o "fr" -f "%input_file%" -d "%output_dir%" %blacklist% --nb --debug >"%log_file%" 2>&1

@@ -1,10 +1,10 @@
 [
-  "¿Cuál es tu nombre?",
+  "¿Cómo te llamas",
   "Solicitar el nombre del usuario",
-  "Hello",
-  "Saludar al usuario",
+  "Hola",
+  "Saluda al usuario",
   "Adiós",
-  "Volver a:",
+  "Vuelve a",
   "pronto",
-  "Decir adiós al usuario"
+  "Di adiós al usuario"
 ]

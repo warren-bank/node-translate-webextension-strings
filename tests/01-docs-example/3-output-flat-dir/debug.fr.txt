@@ -1,10 +1,10 @@
 [
-  "Quel est votre nom?",
+  "Quel est votre nom ",
   "Demander le nom de l'utilisateur",
   "Bonjour",
-  "Greet l'utilisateur",
+  "Saluez l'utilisateur",
   "Au revoir",
   "Revenez à",
-  "Bientôt",
-  "Dites adieu à l'utilisateur"
+  "bientôt",
+  "Dis au revoir à l'utilisateur"
 ]
