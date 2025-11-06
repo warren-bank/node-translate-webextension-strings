@@ -3,10 +3,10 @@
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 # declare variables "LIBRE_TRANSLATE_API_KEY" and "LIBRE_TRANSLATE_API_URL"
-source "${DIR}/../LIBRE_TRANSLATE_API_CREDENTIALS.sh"
+source "${DIR}/../../LIBRE_TRANSLATE_API_CREDENTIALS.sh"
 
 function translate-webextension-strings {
-  node "${DIR}/../../bin/translate-webextension-strings.js" "$@"
+  node "${DIR}/../../../bin/translate-webextension-strings.js" -s 'libre' "$@"
 }
 
 input_file="${DIR}/1-input/_locales/en/messages.json"

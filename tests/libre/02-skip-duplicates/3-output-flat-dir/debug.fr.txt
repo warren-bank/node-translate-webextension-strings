@@ -2,7 +2,7 @@
   "Bonjour Monde",
   "Balle de terre",
   "pendant",
-  "se déplacer sans but dans l'espace",
+  "se déplaçant sans but dans l'espace",
   "orbiter une étoile qui finira par exploser",
   "Les gouvernements corrompus",
   "Eglises pédophiles",

@@ -2,13 +2,13 @@
 
 set DIR=%~dp0.
 
-rem :: declare variables "LIBRE_TRANSLATE_API_KEY" and "LIBRE_TRANSLATE_API_URL"
-call "%DIR%\..\LIBRE_TRANSLATE_API_CREDENTIALS.bat"
+rem :: declare variables "DEEPL_TRANSLATE_API_KEY" and "DEEPL_TRANSLATE_API_URL"
+call "%DIR%\..\..\DEEPL_TRANSLATE_API_CREDENTIALS.bat"
 
 goto :start
 
 :translate-webextension-strings
-  call node "%DIR%\..\..\bin\translate-webextension-strings.js" %*
+  call node "%DIR%\..\..\..\bin\translate-webextension-strings.js" -s "deepl" %*
   goto :eof
 
 :start

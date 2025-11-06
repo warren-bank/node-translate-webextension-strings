@@ -14,8 +14,8 @@
     }
   },
   "bye": {
-    "message": "Au revoir, $USER$. Revenez à $OUR_SITE$ bientôt!",
-    "description": "Dis au revoir à l'utilisateur",
+    "message": "Au revoir, $USER$. Reviens à $OUR_SITE$ bientôt!",
+    "description": "Dites au revoir à l'utilisateur",
     "placeholders": {
       "our_site": {
         "content": "Example.com"

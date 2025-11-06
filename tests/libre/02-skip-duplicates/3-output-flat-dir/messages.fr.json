@@ -4,7 +4,7 @@
     "description": "Balle de terre $BEHAVIOR$, pendant $CONTEXT$",
     "placeholders": {
       "behavior": {
-        "content": "se déplacer sans but dans l'espace"
+        "content": "se déplaçant sans but dans l'espace"
       },
       "context": {
         "content": "orbiter une étoile qui finira par exploser"
@@ -16,7 +16,7 @@
     "description": "Les gouvernements corrompus $BEHAVIOR$, pendant $CONTEXT$",
     "placeholders": {
       "behavior": {
-        "content": "se déplacer sans but dans l'espace"
+        "content": "se déplaçant sans but dans l'espace"
       },
       "context": {
         "content": "orbiter une étoile qui finira par exploser"
@@ -28,7 +28,7 @@
     "description": "Eglises pédophiles $BEHAVIOR$, pendant $CONTEXT$",
     "placeholders": {
       "behavior": {
-        "content": "se déplacer sans but dans l'espace"
+        "content": "se déplaçant sans but dans l'espace"
       },
       "context": {
         "content": "orbiter une étoile qui finira par exploser"
@@ -40,7 +40,7 @@
     "description": "Déplorables nazis de droite fascistes $BEHAVIOR$, pendant $CONTEXT$",
     "placeholders": {
       "behavior": {
-        "content": "se déplacer sans but dans l'espace"
+        "content": "se déplaçant sans but dans l'espace"
       },
       "context": {
         "content": "orbiter une étoile qui finira par exploser"

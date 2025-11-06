@@ -4,7 +4,7 @@
   "Bonjour",
   "Saluez l'utilisateur",
   "Au revoir",
-  "Revenez à",
+  "Reviens à",
   "bientôt",
-  "Dis au revoir à l'utilisateur"
+  "Dites au revoir à l'utilisateur"
 ]
