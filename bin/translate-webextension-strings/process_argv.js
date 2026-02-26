@@ -102,6 +102,11 @@ if (!argv_vals["--input-file"]) {
 
 if (!argv_vals["--output-directory"]) {
   argv_vals["--output-directory"] = path.dirname(argv_vals["--input-file"])
+
+  if (argv_vals["--make-resource-dirs"]) {
+    // one level higher
+    argv_vals["--output-directory"] = path.dirname(argv_vals["--output-directory"])
+  }
 }
 
 module.exports = argv_vals

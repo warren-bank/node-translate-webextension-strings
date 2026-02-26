@@ -49,7 +49,9 @@ options:
 "-d" <dirpath>
 "--output-directory" <dirpath>
     [optional] Directory path to save output files.
-    Default: Path to the input file's directory.
+    Default:
+      - If "-m" is disabled: Path to the input file's directory.
+      - If "-m" is enabled:  Path to the input file's parent directory.
 
 "-m"
 "--make-resource-dirs"
